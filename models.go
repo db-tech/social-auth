@@ -32,6 +32,7 @@ const (
 	SocialQQ
 	SocialDropbox
 	SocialFacebook
+	SocialStackexchange
 	endType
 )
 
