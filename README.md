@@ -1,6 +1,7 @@
 # Beego social auth
 
 Social accounts connect for beego
+ - Fork to implement Stackexchange login 
 
 ### Support Platform
 
@@ -10,6 +11,7 @@ Social accounts connect for beego
 * Tencent QQ
 * Dropbox
 * Facebook
+* Stackexchange
 
 ### Installation
 
@@ -33,4 +35,4 @@ Project in world:
 
 ### Contact
 
-Maintain by [slene](https://github.com/slene)
+Maintain by [db-tech](https://github.com/db-tech)
